@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(114,26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(131,26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(143,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(97,10): warning C4101: 'tecla': unreferenced local variable
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(165,22): warning C4309: '=': truncation of constant value
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(183,22): warning C4309: '=': truncation of constant value
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(338,34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(451,34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(594,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(597,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(602,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(616,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(625,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(637,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(579,10): warning C4101: 'skip': unreferenced local variable
+C:\Users\kaisu\source\repos\seega proyecto final\seega proyecto final\main.cpp(580,10): warning C4101: 'tecla': unreferenced local variable
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  seega proyecto final.vcxproj -> C:\Users\kaisu\source\repos\seega proyecto final\Debug\seega proyecto final.exe
